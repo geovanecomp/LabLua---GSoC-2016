@@ -1,2 +1,2 @@
-# SDL-Example
-Exemplo de código em SDL para o Google Summer of Code / LabLua
+# This repository is to show examples of SDL / Emscripten and Céu / SDL
+
